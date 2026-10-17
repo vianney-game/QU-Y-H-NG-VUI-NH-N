@@ -1,0 +1,6 @@
+{
+  "name": "Quầy Hàng Vui Nhộn",
+  "description": "Trò chơi giáo dục tương tác dành cho bé mầm non: Quầy hàng vui nhộn - Bé đếm đến 6 với cô bán hàng dễ thương.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
